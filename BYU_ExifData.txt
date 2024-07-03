@@ -1,0 +1,215 @@
+Camera							: BYU_Camera
+ExifTool Version Number         : 12.84
+File Name                       : IMG_0001_1.tif
+Directory                       : .//data//07112023_DeerCreek//40_111//000
+File Size                       : 3.2 MB
+File Modification Date/Time     : 2023:07:11 16:21:44-06:00
+File Access Date/Time           : 2024:04:24 13:53:22-06:00
+File Creation Date/Time         : 2024:04:24 11:35:01-06:00
+File Permissions                : -rw-rw-rw-
+File Type                       : TIFF
+File Type Extension             : tif
+MIME Type                       : image/tiff
+Exif Byte Order                 : Little-endian (Intel, II)
+Subfile Type                    : Full-resolution image
+Image Width                     : 1456
+Image Height                    : 1088
+Bits Per Sample                 : 16
+Compression                     : Uncompressed
+Photometric Interpretation      : BlackIsZero
+Make                            : MicaSense
+Camera Model Name               : RedEdge-P
+Strip Offsets                   : (Binary data 78 bytes, use -b option to extract)
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 1
+Rows Per Strip                  : 100
+Strip Byte Counts               : (Binary data 76 bytes, use -b option to extract)
+Planar Configuration            : Chunky
+Software                        : v1.3.1
+Modify Date                     : 2023:07:11 16:21:44
+XMP Toolkit                     : XMP Core 4.4.0
+About                           : Pix4D Camera Information
+Rig Name                        : RedEdge-P
+Band Name                       : Blue
+Central Wavelength              : 475
+Wavelength FWHM                 : 32
+Model Type                      : perspective
+Principal Point                 : 2.42867,1.95543
+Perspective Focal Length        : 5.42155977
+Perspective Focal Length Units  : mm
+Perspective Distortion          : -0.093544310000000006, 0.13922390000000001, -0.033231759999999999, 0.0026442869999999999, 0.0016317219999999999
+Vignetting Polynomial 2D Name   : 0,0,0,1,0,2,0,3,0,4,0,5,1,0,1,1,1,2,1,3,1,4,2,0,2,1,2,2,2,3,3,0,3,1,3,2,4,0,4,1,5,0
+Vignetting Polynomial 2D        : 0.495785,0.603873,-0.944958,0.574792,-0.057492,-0.182215,1.475775,-0.496567,0.592023,-0.246265,0.209096,-0.950504,0.419121,-0.691488,-0.269075,-0.904454,0.694828,0.467251,-0.011730,-0.670720,0.339796
+Band Sensitivity                : 0.20090251942982409
+Rig Relatives                   : -0.030747, -0.101391, 0.003043
+Rig Translations                : -49.26934, -0.13469, 0.064806000000000002
+Rig Translations Units          : mm
+Rig Camera Index                : 0
+Rig Relatives Reference Rig Camera Index: 1
+GPSXY Accuracy                  : 0
+GPSZ Accuracy                   : 887
+Yaw                             : -53.047972170130095
+Pitch                           : 0.9398027603339606
+Roll                            : 2.4479146122100057
+Boot Timestamp                  : 287
+Radiometric Calibration         : 0.00018954, 2.7654299999999998e-10, 3.9849889999999999e-05
+Imager Temperature C            : 27.739999999999998
+Flight Id                       : K6K66kMHDva0VTpBkmXt
+Capture Id                      : ae2CRGms1XinChSWSqcD
+Trigger Method                  : 6
+Pressure Alt                    : 0
+Dark Row Value                  : 3843, 3843, 3843, 3843
+Serial                          : None
+Sw Version                      : None
+Exposure Time                   : 1/632
+F Number                        : 2.8
+Exposure Program                : Program AE
+ISO Speed                       : 100
+Exif Version                    : 0230
+Date/Time Original              : 2023:07:11 16:21:44
+Create Date                     : 2023:07:11 16:21:44
+Metering Mode                   : Average
+Focal Length                    : 5.5 mm
+Sub Sec Time                    : 896868555
+Focal Plane X Resolution        : 289.855072
+Focal Plane Y Resolution        : 289.855072
+Focal Plane Resolution Unit     : mm
+Serial Number                   : PR03-2117315-MS
+GPS Version ID                  : 2.2.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Altitude Ref                : Above Sea Level
+GPS Dilution Of Precision       : 0
+Black Level Repeat Dim          : 2 2
+Black Level                     : 3843 3843 3843 3843
+Opcode List 3                   : [opcode 48739]
+Aperture                        : 2.8
+Image Size                      : 1456x1088
+Megapixels                      : 1.6
+Scale Factor To 35 mm Equivalent: 6.9
+Shutter Speed                   : 1/632
+Modify Date                     : 2023:07:11 16:21:44.896868555
+GPS Altitude                    : 1641 m Above Sea Level
+GPS Latitude                    : 40 deg 24' 57.16" N
+GPS Longitude                   : 111 deg 30' 29.46" W
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 50.8 deg
+Focal Length                    : 5.5 mm (35 mm equivalent: 37.9 mm)
+GPS Position                    : 40 deg 24' 57.16" N, 111 deg 30' 29.46" W
+Hyperfocal Distance             : 2.48 m
+
+
+Camera							: REDEDGE_Camera
+ExifTool Version Number         : 12.84
+File Name                       : IMG_0001_1.tif
+Directory                       : .//data//REDEDGE-MX
+File Size                       : 2.5 MB
+File Modification Date/Time     : 2024:04:23 14:02:58-06:00
+File Access Date/Time           : 2024:04:24 13:53:50-06:00
+File Creation Date/Time         : 2024:04:23 14:02:58-06:00
+File Permissions                : -rw-rw-rw-
+File Type                       : TIFF
+File Type Extension             : tif
+MIME Type                       : image/tiff
+Exif Byte Order                 : Little-endian (Intel, II)
+Subfile Type                    : Full-resolution image
+Image Width                     : 1280
+Image Height                    : 960
+Bits Per Sample                 : 16
+Compression                     : Uncompressed
+Photometric Interpretation      : BlackIsZero
+Make                            : MicaSense
+Camera Model Name               : RedEdge-M
+Strip Offsets                   : (Binary data 70 bytes, use -b option to extract)
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 1
+Rows Per Strip                  : 100
+Strip Byte Counts               : (Binary data 69 bytes, use -b option to extract)
+Planar Configuration            : Chunky
+Software                        : v7.5.0-beta6
+Modify Date                     : 2022:04:06 18:50:25
+XMP Toolkit                     : XMP Core 4.4.0
+About                           : Pix4D Camera Information
+Rig Name                        : RedEdge-M
+Band Name                       : Blue
+Central Wavelength              : 475
+Wavelength FWHM                 : 32
+Model Type                      : perspective
+Principal Point                 : 2.46526,1.79271
+Perspective Focal Length        : 5.4060208124999996
+Perspective Focal Length Units  : mm
+Perspective Distortion          : -0.1058375, 0.21991910000000001, -0.2010044, 0.00073685419999999996, -0.00049636329999999998
+Vignetting Center               : 623.63009999999997, 470.29270000000002
+Vignetting Polynomial           : 1.0012850000000001e-06, 5.6142099999999998e-07, -5.9620639999999996e-09, 1.862037e-11, -2.5304870000000001e-14, 1.2094210000000001e-17
+Band Sensitivity                : 0.39497608285002228
+Rig Relatives                   : -0.424777, 0.088905, -0.101976
+Albedo                          : 0.488375
+Reflect Area                    : 672,676,673,753,753,751,752,674
+Calibration Picture             : 2
+Rig Camera Index                : 0
+Rig Relatives Reference Rig Camera Index: 1
+GPSXY Accuracy                  : 0
+GPSZ Accuracy                   : 0.74400001764297485
+Irradiance                      : 88.211124030780383
+Irradiance Yaw                  : -115.11580185323106
+Irradiance Pitch                : 1.0631001263898181
+Irradiance Roll                 : 1.7915941946577518
+Boot Timestamp                  : 129
+Radiometric Calibration         : 9.6408529999999999e-05, 8.6893609999999999e-08, 3.3063270000000001e-06
+Flight Id                       : ePdxBBmSitgkTdpwZiM9
+Capture Id                      : Rb0pibHa08uHJwrTjf8Y
+Trigger Method                  : 0
+Panel Serial                    : RP06-2051037-OB
+Pressure Alt                    : -148.64511108398438
+Dark Row Value                  : 5051, 5063, 5040, 5027
+Serial                          : DA04-2020101-MS
+Sw Version                      : v1.3.0
+Center Wavelength               : 475
+Bandwidth                       : 32
+Time Stamp                      : 142153
+Spectral Irradiance             : 88.211124030780383
+Horizontal Irradiance           : 77.81044702830873
+Direct Irradiance               : 104.41906372957465
+Scattered Irradiance            : 3.2984331334092896
+Solar Elevation                 : 0.79458237768249695
+Solar Azimuth                   : 2.6322247702488717
+Estimated Direct Light Vector   : -0.11222894690195837, -0.54010975607652212, -0.83407800286797951
+Yaw                             : -2.0091497634122724
+Pitch                           : 0.018554597483870183
+Roll                            : 0.031269217556393974
+Exposure Time                   : 1/7407
+F Number                        : 2.8
+Exposure Program                : Program AE
+ISO Speed                       : 100
+Exif Version                    : 0230
+Date/Time Original              : 2022:04:06 18:50:25
+Create Date                     : 2022:04:06 18:50:25
+Metering Mode                   : Multi-spot
+Focal Length                    : 5.5 mm
+Sub Sec Time                    : 983429891
+Focal Plane X Resolution        : 266.666667
+Focal Plane Y Resolution        : 266.666667
+Focal Plane Resolution Unit     : mm
+Serial Number                   : RX02-2023065-SC
+GPS Version ID                  : 2.2.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Altitude Ref                : Below Sea Level
+GPS Dilution Of Precision       : 0
+Black Level Repeat Dim          : 2 2
+Black Level                     : 4800 4800 4800 4800
+Opcode List 3                   : [opcode 48739], [opcode 41327]
+Aperture                        : 2.8
+Image Size                      : 1280x960
+Megapixels                      : 1.2
+Scale Factor To 35 mm Equivalent: 7.2
+Shutter Speed                   : 1/7407
+Modify Date                     : 2022:04:06 18:50:25.983429891
+GPS Altitude                    : 6.7 m Below Sea Level
+GPS Latitude                    : 47 deg 42' 13.01" N
+GPS Longitude                   : 122 deg 8' 29.17" W
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 48.8 deg
+Focal Length                    : 5.5 mm (35 mm equivalent: 39.7 mm)
+GPS Position                    : 47 deg 42' 13.01" N, 122 deg 8' 29.17" W
+Hyperfocal Distance             : 2.59 m
